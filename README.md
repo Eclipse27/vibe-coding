@@ -81,7 +81,5 @@ To connect the frontend to a deployed AWS API Gateway, create a `.env` file in t
 ```
 VITE_API_URL=https://your-api-id.execute-api.region.amazonaws.com
 ```
-
-## Author
-
-Cloud Strategy — FT1 Vibe Coding Activity
+#Author
+S. RAJAT PANDEY
