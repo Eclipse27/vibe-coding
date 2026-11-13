@@ -75,7 +75,7 @@ The application runs fully functional locally using the built-in real-time energ
 
 While the application operates standalone via `localStorage`, the repository includes backend infrastructure configurations for AWS deployment if required:
 - `backend/lambda/index.js` (Serverless CRUD handler)
-- `backend/dynamodb/table-definition.json` (Database schema)
+- `backend/dynamodb/table-definition.json` (Database schema)!
 
 To connect the frontend to a deployed AWS API Gateway, create a `.env` file in the root directory:
 ```
